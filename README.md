@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
+![tjuant1 GitHub stats](https://github-readme-stats.vercel.app/api?username=tjuant1&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjuant1)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**tjuant1/tjuant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
 
-Here are some ideas to get you started:
+![Robot Framework](https://a11ybadges.com/badge?logo=robotframework)
+![Postman](https://a11ybadges.com/badge?logo=postman)
+![JavaScript](https://a11ybadges.com/badge?logo=javascript)
+![Python](https://a11ybadges.com/badge?logo=python)
+![Microsoft Azure](https://a11ybadges.com/badge?logo=microsoftazure)
+![GitHub](https://a11ybadges.com/badge?logo=github)
+![Bitbucket](https://a11ybadges.com/badge?logo=bitbucket)
+![ClickUp](https://a11ybadges.com/badge?logo=clickup)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-psantos/)
