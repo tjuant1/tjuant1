@@ -1,5 +1,5 @@
 # About me
-![tjuant1 GitHub stats](https://github-readme-stats.vercel.app/api?username=tjuant1&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjuant1)](https://github.com/anuraghazra/github-readme-stats)
+![tjuant1 GitHub stats](https://github-readme-stats.vercel.app/api?username=tjuant1&show_icons=true&theme=transparent)
 
 # Skills
 
