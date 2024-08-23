@@ -1,6 +1,3 @@
-# About me
-![tjuant1 GitHub stats](https://github-readme-stats.vercel.app/api?username=tjuant1&show_icons=true&theme=transparent)
-
 # Skills
 
 ![Robot Framework](https://a11ybadges.com/badge?logo=robotframework)
